@@ -48,7 +48,7 @@ class BST:
                     temp = temp.right
 
             else:
-                print("Duplicate entry")
+                print("Duplicate entry {0}".format(data))
                 break
 
 
